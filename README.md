@@ -11,11 +11,11 @@ HarmonyOs custome components demo
 
 SButton:
 
-![SButton](https://github.com/megaacheyounes/harmonycc/blob/master/images/sb.gif "SButton custome component")
+![SButton](https://github.com/megaacheyounes/harmonycc/blob/master/images/c1.gif "SButton custome component")
 
 ShapeShiftingComponent:
 
-![ShapeShiftingButton](https://github.com/megaacheyounes/harmonycc/blob/master/images/ssc.gif "SButton custome component")
+![ShapeShiftingButton](https://github.com/megaacheyounes/harmonycc/blob/master/images/c2.gif "shape shifting custome component")
 
 
 # Run the app
