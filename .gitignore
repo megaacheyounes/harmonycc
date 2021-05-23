@@ -13,3 +13,5 @@
 .externalNativeBuild
 /entry/.preview
 .cxx
+.idea/compiler.xml
+.idea/jarRepositories.xml
