@@ -1,5 +1,5 @@
-# harmonycc
-HarmonyOs custome components demo
+# HarmonyOs custome component
+Sample HarmonyOs app with 2 custome components
 
 #### this app has two custome component:
 
@@ -19,6 +19,9 @@ ShapeShiftingComponent:
 
 
 # Run the app
-``` USE HVD manager inside DevEco Studio to run the app ```
+1. USE HVD manager (inside DevEco Studio) to run the app                                                      
+
 
 ![HVD MANAGER](https://github.com/megaacheyounes/harmonycc/blob/master/images/hvd.png "HVD manager in DevEco studio")
+
+2. Run the app on physical device, create an app on Huawei developer console and configure the singin config. You can find more details here: https://developer.harmonyos.com/en/docs/documentation/doc-guides/build_hap-0000001053342418
