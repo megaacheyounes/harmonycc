@@ -1,0 +1,16 @@
+{
+  "string": [
+    {
+      "name": "app_name",
+      "value": "Custom components"
+    },
+    {
+      "name": "mainability_description",
+      "value": "Java_Wearable_Empty Feature Ability"
+    },
+    {
+      "name": "hello",
+      "value": "Hello!"
+    }
+  ]
+}

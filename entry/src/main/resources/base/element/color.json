@@ -1,0 +1,31 @@
+{
+  "color": [
+    {
+      "name": "white",
+      "value": "#fff"
+    },
+    {
+      "name": "text_button_enabled",
+      "value": "$color:white"
+    },
+    {
+      "name": "gray",
+      "value": "#9AFFFFFF"
+    },
+    {
+      "name": "text_button_disabled",
+      "value": "$color:gray"
+    },
+    {
+      "name": "black",
+      "value": "#000"
+    },
+    {
+      "name": "red",
+      "value": "#d71921"
+    },{
+      "name": "ssbutton_default",
+      "value": "#FF2476EF"
+    }
+  ]
+}
