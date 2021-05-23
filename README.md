@@ -11,7 +11,7 @@ HarmonyOs custome components demo
 
 SButton:
 
-![SButton](https://github.com/megaacheyounes/harmonycc/blob/master/images/sbutton.gif "SButton custome component")
+![SButton](https://github.com/megaacheyounes/harmonycc/blob/master/images/sb.gif "SButton custome component")
 
 ShapeShiftingComponent:
 
