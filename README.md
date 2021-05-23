@@ -15,7 +15,7 @@ SButton:
 
 ShapeShiftingComponent:
 
-![ShapeShiftingButton](https://github.com/megaacheyounes/harmonycc/blob/master/images/ssc.gif "SButton custome component")
+![ShapeShiftingButton](https://github.com/megaacheyounes/harmonycc/blob/master/images/ssb.gif "SButton custome component")
 
 
 # Run the app
