@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <DirectionalLayout
     xmlns:ohos="http://schemas.huawei.com/res/ohos"
-    xmlns:app="http://huawei.com/res/ohos"
-    xmlns:ssbutton="http://huawei.com/res/ohos"
+    xmlns:sbutton="http://huawei.com/res/ohos"
 
     ohos:height="match_parent"
     ohos:width="match_parent"
@@ -17,11 +16,11 @@
         ohos:width="200vp"
         ohos:layout_alignment="horizontal_center"
 
-        app:text="$string:hello"
-        app:btn_bg="$graphic:button_violet"
+        sbutton:text="$string:hello"
+        sbutton:btn_bg="$graphic:button_violet"
 
-        app:show_arrow="true"
-        app:icon_src="$media:phone"
+        sbutton:show_arrow="true"
+        sbutton:icon_src="$media:phone"
         />
 
     <com.megaache.customcomponent.ui.components.ShapeShiftingComponent
