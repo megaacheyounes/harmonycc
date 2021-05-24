@@ -12,7 +12,7 @@ import ohos.app.Context;
 
 
 
-public class ShapeShiftingComponent extends Button {
+public class ShapeShiftingComponent extends Component {
     public static class CSButtonAttrsConstants {
         public static final String CSBUTTON_SHAPE = "shape";
         public static final String CSBUTTON_SHAPE_COLOR = "shape_color";
@@ -188,7 +188,7 @@ public class ShapeShiftingComponent extends Button {
 
         textPaint = new Paint();
         textPaint.setStyle(Paint.Style.FILL_STYLE);
-        textPaint.setColor(getTextColor());
+        textPaint.setColor(Color.WHITE);
         textPaint.setTextSize(AttrHelper.fp2px(TEXT_SIZE_FP, getContext()));
     }
 
